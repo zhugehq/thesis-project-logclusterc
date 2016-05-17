@@ -13,4 +13,4 @@ The history versions of LogCluster in Perl: https://github.com/ristov/logcluster
 
 All the functions in LogCluster Perl version 0.03 are supported in LogClusterC version 0.03. The command line syntax is mutual.
 
-The corresponding thesis and experiment data are stored in another Github repository: https://github.com/zhugehq/logcluster-c-based-implementation-thesis-data .
+The corresponding thesis and experiment data are stored in another Github repository: https://github.com/zhugehq/thesis-project-logclusterc-experiment-data .
