@@ -13,4 +13,4 @@ The history versions of LogCluster in Perl: https://github.com/ristov/logcluster
 
 All the functions in LogCluster Perl version 0.03 are supported in LogClusterC version 0.03. The command line syntax is mutual. Given the same command line input, their outputs will be the same. **(Except if you use the word_class options ('--wfilter', '--wsearch' and '--wreplace'), there will be a bug leading to possible mismatching in outputs. This bug will be fixed soon. All the other options are good.)**
 
-The corresponding thesis and experiment data (plain text output files containing performance parameters) are stored in another Github repository: https://github.com/zhugehq/thesis-project-logclusterc-experiment-data .
+The corresponding thesis and experiment data (plain text output files containing performance parameters) are stored in another GitHub repository: https://github.com/zhugehq/thesis-project-logclusterc-experiment-data .
