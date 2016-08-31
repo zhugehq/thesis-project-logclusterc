@@ -11,6 +11,7 @@ The information of LogCluster algorithm and its prototype implementation in Perl
 
 The history versions of LogCluster in Perl: https://github.com/ristov/logcluster/releases .
 
-All the functions in LogCluster Perl version 0.03 are supported in LogClusterC version 0.03. The command line syntax is mutual. Given the same command line input, their outputs will be the same. **(Except if you use the word_class options ('--wfilter', '--wsearch' and '--wreplace'), there will be a bug leading to possible mismatching in outputs. This bug will be fixed soon. All the other options are good.)**
+All the functions in LogCluster Perl version 0.03 are supported in LogClusterC version 0.03. The basic functions and heuristics functions (options: --input, --rsupport, 
+--support, --aggrsup, --wweight) are tested via various experiments in thesis.
 
 The corresponding thesis，the bash script to run the experiment and the raw plain text outputs in the experiment are stored in another GitHub repository: https://github.com/zhugehq/thesis-project-logclusterc-experiment-data .
