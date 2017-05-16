@@ -1,6 +1,6 @@
 # C-based Implementation of LogCluster Algorithm
 
-I have stopped updating this repository since May 16th, 2017. Further updates of LogClusterC will be in: https:://github.com/zhugegy/LogClusterC .
+I have stopped updating this repository since May 16th, 2017. Further updates of LogClusterC will be in: https://github.com/zhugegy/LogClusterC .
 
 **How to manually compile the source files:**
 In terminal, change directory to this folder and execute "gcc -O2 -o logclusterc *.c" command. The executable file named "logclusterc" then will be generated.
